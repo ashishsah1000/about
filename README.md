@@ -52,8 +52,10 @@ GitHub Repo: https://github.com/ashishsah1000/crypto-info-antd
 
 ### First At CII Nationals  🥇
 <img width="755" alt="Screenshot 2022-12-17 at 7 14 29 PM" src="https://user-images.githubusercontent.com/24749090/208244979-728a723c-bc7f-4f0c-8fe2-7930ece09821.png">
+
 ### Second at CII Regional - Kolkata 🥈
 <img width="748" alt="Screenshot 2022-12-17 at 7 17 05 PM" src="https://user-images.githubusercontent.com/24749090/208245089-8e8ae2c7-b8b3-4c71-9485-bdfd0d1d7a14.png">
+
 
 ### Won hackathon 🎖️
  - Represented the idea for an App that was helpful to the department who hosted this hackathon 
@@ -68,10 +70,12 @@ GitHub Repo: https://github.com/ashishsah1000/crypto-info-antd
 
 # ToastMasters International 
 - Was active memeber for Two Years. Completed CC and CL course.
-CL
+
+- CL
 <img width="685" alt="Screenshot 2022-12-17 at 7 30 31 PM" src="https://user-images.githubusercontent.com/24749090/208245669-85fb88a6-c851-4d28-9c0b-e65b1d5534e3.png">
 
-CC
+
+- CC
 <img width="689" alt="Screenshot 2022-12-17 at 7 31 32 PM" src="https://user-images.githubusercontent.com/24749090/208245709-80e8bc14-ad4e-4d83-b6d4-28590ca7f040.png">
 
 # International Computer Olympiad
